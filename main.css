@@ -235,6 +235,10 @@ footer p {
         justify-content: space-between;
     }
 
+        .main-container img {
+        width: 60%; 
+    }
+
     .about-text {
         max-width: 450px; 
         margin-top: 20px;
